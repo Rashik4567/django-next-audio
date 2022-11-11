@@ -1,0 +1,9 @@
+.middlesec {
+    width: 80%;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
